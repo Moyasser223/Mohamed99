@@ -45,7 +45,7 @@ I help businesses make data-driven decisions by analyzing marketing campaigns, t
 - ROI & Conversion Analysis  
 - Automated Data Model  
 
-### 🔹 Campaign Performance Analysis – SQL + Excel
+### 🔹 Campaign Performance Analysis – SQL + Power BI
 <p align="center">
   <img src="market13.png" width="800"/>
 </p>
