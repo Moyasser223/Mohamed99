@@ -39,7 +39,7 @@ I help businesses make data-driven decisions by analyzing marketing campaigns, t
 
 ### 🔹 Marketing Dashboard – Power BI
 <p align="center">
-  <img src="Screenshot 2026-02-11 180133.png" width="800"/>
+  <img src="market11.png" width="800"/>
 </p>
 - Executive KPI Tracking  
 - ROI & Conversion Analysis  
