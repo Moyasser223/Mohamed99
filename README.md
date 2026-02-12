@@ -55,7 +55,7 @@ I help businesses make data-driven decisions by analyzing marketing campaigns, t
 
 ### 🔹 Superstore Sales Performance
 <p align="center">
-  <img src="Screenshot 2025-09-07 003435.png" width="800"/>
+  <img src="market13.png" width="800"/>
 </p>
 - Structured Data Modeling  
 - Strategic Decision Support  
