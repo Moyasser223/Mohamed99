@@ -53,9 +53,9 @@ I help businesses make data-driven decisions by analyzing marketing campaigns, t
 - CPA & CTR Optimization  
 - Business Insight Recommendations  
 
-### 🔹 Superstore Sales Performance
+### 🔹Sales Performance
 <p align="center">
-  <img src="market13.png" width="800"/>
+  <img src="sales12.png" width="800"/>
 </p>
 - Structured Data Modeling  
 - Strategic Decision Support  
