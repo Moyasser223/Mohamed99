@@ -47,7 +47,7 @@ I help businesses make data-driven decisions by analyzing marketing campaigns, t
 
 ### 🔹 Campaign Performance Analysis – SQL + Excel
 <p align="center">
-  <img src="Screenshot 2025-05-10 033946.png" width="800"/>
+  <img src="market13.png" width="800"/>
 </p>
 - Channel Performance Breakdown  
 - CPA & CTR Optimization  
