@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=180&section=header&text=MOHAMED%20YASSER%20MOSTAFA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">Marketing Data Analyst | Business Analyst</h3>
+<h3 align="center">
+Data Analyst | Power BI Developer | SQL | Excel |Python| Data Visualization</h3>
 
 <p align="center">
 Transforming marketing data into actionable business insights.
